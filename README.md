@@ -1,1 +1,2 @@
 # predicting-fraud-in-auto-insurance-claims
+Business Problem: Frauds are unethical and are losses to the company. It takes lot of time to investigate into each claim. By building a model that can classify auto insurance fraud, I am able to cut losses for the insurance company. Less losses equates to more earning. The goal of this project is to build a model that can detect auto insurance fraud. The model should be able to classify if a claim is fraud or not on a dataset that it has not seen. 
